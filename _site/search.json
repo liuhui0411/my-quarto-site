@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "欢迎来到我的主页",
+    "section": "",
+    "text": "学号：2025303110089\n专业：专业植物营养学\n兴趣：数据分析、机器学习、开源科学\n\n\n\n\nR 语言\nPython\nQuarto / R Markdown\nGit 与 GitHub\n\n\n\n\n\n项目一：基于单细胞 RNA-seq 的聚类分析\n项目二：可重复性数据科学工作流探索\n项目二：追求卓越,鼓励探索"
+  },
+  {
+    "objectID": "index.html#技能",
+    "href": "index.html#技能",
+    "title": "欢迎来到我的主页",
+    "section": "",
+    "text": "R 语言\nPython\nQuarto / R Markdown\nGit 与 GitHub"
+  },
+  {
+    "objectID": "index.html#近期项目",
+    "href": "index.html#近期项目",
+    "title": "欢迎来到我的主页",
+    "section": "",
+    "text": "项目一：基于单细胞 RNA-seq 的聚类分析\n项目二：可重复性数据科学工作流探索\n项目二：追求卓越,鼓励探索"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "更多信息",
+    "section": "",
+    "text": "教育背景\n\n2025 - 至今 华中农业大学 专业植物营养学\n2021 - 2025 江西农业大学 生命科学学院 本科\n\n\n\n联系方式\n\n邮箱：2026901738@qq.com\nGitHub：@zhangsan\n\n\n\n个人陈述\n我热爱数据科学和可重复性研究，相信透明、开放的科学实践能推动知识进步。本网站使用 Quarto 构建，所有内容均可通过源码再现。"
+  }
+]
