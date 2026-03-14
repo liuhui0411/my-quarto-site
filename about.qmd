@@ -10,7 +10,7 @@ title: "更多信息"
 # 联系方式
 
 - 邮箱：2026901738@qq.com
-- GitHub：[@zhangsan](https://github.com/zhangsan)
+- GitHub：[@liuhui0411](https://github.com/liuhui0411)
 
 # 个人陈述
 
